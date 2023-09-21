@@ -1,1 +1,4 @@
 *.txt
+.neptune/
+mlruns/
+wandb/
