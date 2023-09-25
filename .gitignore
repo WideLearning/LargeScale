@@ -1,4 +1,3 @@
-*.txt
 .neptune/
 mlruns/
 wandb/
